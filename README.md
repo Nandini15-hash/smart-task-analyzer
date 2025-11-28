@@ -23,8 +23,6 @@ A comprehensive task management system that intelligently scores and prioritizes
 ### Running the Application
 
 ```bash
-# Easy method (Windows):
 run_project.bat
 
-# Alternative method:
-py task_analyzer.py
+

@@ -192,3 +192,63 @@ smart-task-analyzer/
  
 Created for the Singularium Internship Assignment 2025 
 Demonstrating strong problem-solving skills, clean code practices, and algorithmic thinking. 
+ 
+## ?? Quick Start 
+ 
+### Prerequisites 
+- Python 3.8+ 
+ 
+ 
+1. **Download the project files from GitHub** 
+2. **Run the application:** 
+ 
+```bash 
+# Easy method (Windows): 
+run_project.bat 
+ 
+# Manual method: 
+python task_analyzer.py 
+``` 
+ 
+### Testing 
+```bash 
+run_tests.bat 
+# or 
+python test_analyzer.py 
+``` 
+ 
+### First Time Use 
+1. Run the application 
+2. Select **Option 2** to load sample tasks 
+3. Select **Option 3** to analyze and see prioritization 
+4. Try **Option 4** to switch between different strategies 
+ 
+## ?? Quick Start 
+ 
+### Prerequisites 
+- Python 3.8+ 
+ 
+ 
+1. **Download the project files from GitHub** 
+2. **Run the application:** 
+ 
+```bash 
+# Easy method (Windows): 
+run_project.bat 
+ 
+# Manual method: 
+python task_analyzer.py 
+``` 
+ 
+### Testing 
+```bash 
+run_tests.bat 
+# or 
+python test_analyzer.py 
+``` 
+ 
+### First Time Use 
+1. Run the application 
+2. Select **Option 2** to load sample tasks 
+3. Select **Option 3** to analyze and see prioritization 
+4. Try **Option 4** to switch between different strategies 
